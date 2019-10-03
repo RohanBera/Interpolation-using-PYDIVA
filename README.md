@@ -52,4 +52,4 @@ The project consists of the following parts :
 
 **NOTE**
 > _The programs above are dependant on the path to DIVA-4.7.2 directory. Modify the path (divadir) in the source code accordingly._
-
+> Refer report.pdf for more detailed info.
