@@ -39,10 +39,10 @@ The project consists of the following parts :
 
         > Results from data1.py : 
 
-        >> temperature analysis at 10mts depth (Arabian Sea)
+         temperature analysis at 10mts depth (Arabian Sea)
         ![temp](./temp10mts.png)
 
-        >> salinity analysis at 10mts depth (Arabian sea)
+         salinity analysis at 10mts depth (Arabian sea)
         ![sal](./sal10mts.png)
 
 
