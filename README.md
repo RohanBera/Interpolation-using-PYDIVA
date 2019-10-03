@@ -37,6 +37,14 @@ The project consists of the following parts :
         * example :
         `python3 data1.py example/dp10mts.dat example/coast.cont example/param.par`
 
+        > Results from data1.py : 
+
+        >> temperature analysis at 10mts depth (Arabian Sea)
+        ![temp](./temp10mts.png)
+
+        >> salinity analysis at 10mts depth (Arabian sea)
+        ![sal](./sal10mts.png)
+
 
     2. fastdata.py (single)
         * Takes an MLD file, coast.cont file and param.par file as command line arguments.
