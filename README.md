@@ -25,7 +25,7 @@ The project consists of the following parts :
 2. interpol (Data Interpolation)
     * The program `interpolFinal.py` takes in 3 command line arguments (ARGO_Core, ARGO_Observations and output path).
     * The temperature and salinity values are distributed over a range of pressure values, which are interpolated for standard depths.
-    ] NOTE: The standard depths can be kept in contour.dept file or can be a static array in interpolFinal.py
+    > NOTE: The standard depths can be kept in contour.dept file or can be a static array in interpolFinal.py
     * The interpolated values are stored in files based on the date, i.e. the main directory (year) contains 12 directories (months). Each month is divided into 3 directories (1-10, 11-20 & 21-last). The files then, are stored in these folders.
     * example : 
     `python3 interpol.py ARGO_CORE_2018_Latest.dat ARGO_Observations_1999_2019.txt 2018`
