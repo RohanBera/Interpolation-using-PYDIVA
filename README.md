@@ -61,5 +61,5 @@ The project consists of the following parts :
 **NOTE**
 
 * _The programs above are dependant on the path to DIVA-4.7.2 directory. Modify the path (divadir) in the source code accordingly._
-* Refer report.pdf for more detailed info on the project.
-* Download the files from this [link](**insert drive link here**) and paste "ar_index_global_prof.txt" to "rtod" folder & "ARGO_CORE_2018_Latest.txt" to "interpol" folder before running the example commands
+* _Refer report.pdf for more detailed info on the project._
+* *Download the files from this [link](https://drive.google.com/open?id=14jJdtCRUPtXmtOC1EGDIuungSfAbbIdN) and paste "ar_index_global_prof.txt" to "rtod" folder & "ARGO_CORE_2018_Latest.txt" to "interpol" folder before running the example commands*
